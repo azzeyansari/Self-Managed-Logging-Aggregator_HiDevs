@@ -1,1 +1,9 @@
-# Self-Managed-Logging-Aggregator_HiDevs
+# Self-Managed Logging Aggregator
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
